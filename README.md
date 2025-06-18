@@ -1,36 +1,104 @@
-# Company Name
+<div align="center">
 
-**Building tomorrow's technology today.**
+# Tech One
 
----
+### SAP Development Specialist
 
-### About Us
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6DB5&center=true&vCenter=true&width=435&lines=SAP+ABAP+Development;Enterprise+Solution+Provider;Digital+Transformation+Partner)](https://git.io/typing-svg)
 
-우리는 혁신적인 솔루션을 제공하는 기술 기업입니다.  
-복잡한 문제를 단순하고 효과적인 방법으로 해결합니다.
-
-### What We Do
-
-- 🔧 **Software Development** - 맞춤형 소프트웨어 솔루션 개발
-- 🌐 **Web Services** - 확장 가능한 웹 애플리케이션 구축
-- 📊 **Data Solutions** - 데이터 기반 인사이트 제공
-
-### Tech Stack
-
-`React` `TypeScript` `Node.js` `Python` `PostgreSQL` `AWS` `Docker`
-
-### Featured Projects
-
-- [**Project Alpha**](https://github.com/your-company/project-alpha) - 차세대 분석 플랫폼
-- [**Project Beta**](https://github.com/your-company/project-beta) - 실시간 협업 도구
-- [**Project Gamma**](https://github.com/your-company/project-gamma) - AI 기반 자동화 시스템
-
-### Contact
-
-- 🌐 [company-website.com](https://company-website.com)
-- 📧 contact@company.com
-- 📍 Seoul, South Korea
+</div>
 
 ---
 
-<sub>© 2025 Company Name. All rights reserved.</sub>
+### 🏢 About Tech One
+
+> **창업**: 2024년 12월 → **법인전환**: 2025년 5월
+
+SAP 개발에 특화된 전문 기업으로, 14년 이상의 경력을 바탕으로  
+고객의 디지털 전환을 성공적으로 이끌어갑니다.
+
+---
+
+### 💼 Core Business
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### SAP Development
+- 🔹 ABAP 개발 및 최적화
+- 🔹 BTP / OData 서비스
+- 🔹 S/4HANA 전환 컨설팅
+
+</td>
+<td width="50%" valign="top">
+
+#### Digital Solutions  
+- 🔸 웹 개발 (Fiori/React)
+- 🔸 백엔드 (Spring Boot)
+- 🔸 빅데이터 플랫폼 구축
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Current Projects
+
+```
+📌 S/4HANA 전환 Project (MM 모듈)
+   └─ 창신 첫 프로젝트로 내년 현재 SAP 개발 수행 중
+   
+📌 B.Chain 연동 OData 서비스 개발
+   └─ 블록체인과 SAP 시스템 간 데이터 연동
+   
+📌 SAP ECC 유지보수 및 Project 개발
+   └─ 기존 시스템 안정화 및 신규 기능 개발
+```
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+**SAP Technologies**  
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+**Data Platform**  
+![Database](https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigData](https://img.shields.io/badge/Big_Data-FF6F00?style=flat-square&logo=apache&logoColor=white)
+
+</div>
+
+---
+
+### 👨‍💼 Leadership
+
+**대표이사** | 14년 경력 SAP/Backend 전문가
+- 커머스, 물류 기업 SAP ABAP 개발
+- 데이터 플랫폼 구축/운영
+- 디지털 전환 프로젝트 리딩
+
+---
+
+<div align="center">
+
+### 📫 Contact Us
+
+**Email**: jicheol.kim@techone-co-kr.com  
+**Location**: 부산광역시  
+**Business**: SAP Development & Consulting
+
+<sub>© 2025 Tech One. All rights reserved.</sub>
+
+</div>
