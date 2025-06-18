@@ -1,8 +1,8 @@
 <div align="center">
 
-# Tech One
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=180&section=header&text=Tech%20One&fontSize=60&animation=fadeIn&fontAlignY=38&desc=SAP%20Development%20Specialist&descAlignY=55&descAlign=50" alt="header" />
 
-### SAP Development Specialist
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6DB5&center=true&vCenter=true&width=435&lines=SAP+ABAP+Development;Enterprise+Solution+Provider;Digital+Transformation+Partner)](https://git.io/typing-svg)
 
@@ -98,6 +98,10 @@ SAP 개발에 특화된 전문 기업으로, 14년 이상의 경력을 바탕으
 **Email**: jicheol.kim@techone-co-kr.com  
 **Location**: 부산광역시  
 **Business**: SAP Development & Consulting
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" alt="footer" />
 
 <sub>© 2025 Tech One. All rights reserved.</sub>
 
